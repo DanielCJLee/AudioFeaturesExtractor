@@ -1,8 +1,9 @@
-package Feature;
+package features;
 
-import Tool.Stats;
 import org.apache.commons.math3.linear.MatrixUtils;
 import org.apache.commons.math3.linear.RealMatrix;
+
+import tools.Stats;
 
 /**
  * Created by workshop on 9/18/2015.

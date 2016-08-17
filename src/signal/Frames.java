@@ -1,4 +1,4 @@
-package SignalProcess;
+package signal;
 
 /**
  * Created by workshop on 9/18/2015.

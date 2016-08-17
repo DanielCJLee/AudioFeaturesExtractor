@@ -1,6 +1,6 @@
-package Feature;
+package features;
 
-import SignalProcess.Frames;
+import signal.Frames;
 
 
 /**

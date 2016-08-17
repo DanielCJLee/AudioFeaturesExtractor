@@ -7,6 +7,9 @@ AudioFeaturesExtractor/release
 AudioFeaturesExtractor/*.txt
 AudioFeaturesExtractor/*.model
 
+data/
+emotion_dcapswoz_mfcc.txt
+
 */test.arff
 */out.arff
 *.arff

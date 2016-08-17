@@ -1,4 +1,4 @@
-package SignalProcess;
+package signal;
 
 import java.util.Vector;
 

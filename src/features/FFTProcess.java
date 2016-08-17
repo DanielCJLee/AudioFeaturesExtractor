@@ -1,4 +1,4 @@
-package Feature;
+package features;
 
 /**
  * Created by workshop on 9/18/2015.
